@@ -18,4 +18,7 @@
 
 ### CVPR2018
 #### UDA
-- PTGAN: Person Transfer GAN to Bridge Domain Gap for Person Re-Identification
+- PTGAN: Person Transfer GAN to Bridge Domain Gap for Person Re-Identification[[paper](https://arxiv.org/pdf/1711.08565.pdf)]
+
+### CVPR2017
+- AlignedReID: Surpassing Human-Level Performance in Person Re-Identification[[paper](https://arxiv.org/pdf/1711.08184.pdf)]
