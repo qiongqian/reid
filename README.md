@@ -1,16 +1,16 @@
 # reid
 ### CVPR2021
 #### Unsupervised
-- GCL: Joint Generative and Contrastive Learning for Unsupervised Person Re-Identification. [[paper](https://arxiv.org/pdf/2012.00907.pdf)] [[code](https://github.com/chenhao2345/GCL)] 
+- GCL: Joint Generative and Contrastive Learning for Unsupervised Person Re-Identification. [[paper](https://arxiv.org/pdf/2012.09071v2.pdf)] [[code](https://github.com/chenhao2345/GCL)] 
 
 
-#### ICLR2020
+### ICLR2020
 #### UDA
 - MMT：Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification[[paper](https://arxiv.org/pdf/2001.01526.pdf)] [[code](https://github.com/yxgeee/MMT)] 
 
 ### NuerIPS2020
 #### UDA
-- SPCL: Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID
+- SPCL: Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID[[paper](https://arxiv.org/pdf/2001.01526.pdf)] [[code](https://github.com/yxgeee/SpCL)] 
 
 ### ECCV2018
 #### 局部特征
