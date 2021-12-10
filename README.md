@@ -8,6 +8,10 @@
 #### UDA
 - MMT：Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification[[paper](https://arxiv.org/pdf/2001.01526.pdf)] [[code](https://github.com/yxgeee/MMT)] 
 
+### NuerIPS2020
+#### UDA
+- SPCL: Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID
+
 ### ECCV2018
 #### 局部特征
 - PCB：Beyond Part Models: Person Retrieval with Refined Part Pooling (and A Strong Convolutional Baseline) [[paper](https://arxiv.org/pdf/1711.09349.pdf)] [[code](https://github.com/wangguanan/Pytorch-Person-ReID-Baseline-PCB-Beyond-Part-Models)] 
