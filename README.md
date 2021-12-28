@@ -31,3 +31,5 @@
 ### Re-ranking
 - Re-ranking Person Re-identification with k-reciprocal Encoding. [[paper](https://arxiv.org/abs/1701.08398)][[code](https://github.com/zhunzhong07/person-re-ranking)](CVPR2017)
 - Understanding Image Retrieval Re-Ranking: A Graph Neural Network Perspective. [[paper](https://arxiv.org/abs/2012.07620v2)][[code](https://github.com/Xuanmeng-Zhang/gnn-re-ranking)](CVPR2020)
+### 综述
+- Deep Learning for Person Re-identification:A Survey and Outlook. [[paper](https://arxiv.org/abs/2001.04193v2)][[github](https://github.com/mangye16/ReID-Survey)](IEEE TPAMI2020)
