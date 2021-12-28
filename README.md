@@ -1,4 +1,8 @@
 # reid
+
+### transformer
+- TransReID: Transformer-based Object Re-Identification [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)][[code](https://github.com/damo-cv/TransReID)] (ICCV2021)
+
 ### fully Unsupervised
 - GCL: Joint Generative and Contrastive Learning for Unsupervised Person Re-Identification. [[paper](https://arxiv.org/pdf/2012.09071v2.pdf)] [[code](https://github.com/chenhao2345/GCL)] (CVPR2021)
 
