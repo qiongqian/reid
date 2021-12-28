@@ -12,3 +12,6 @@
 ### 局部特征
 - PCB：Beyond Part Models: Person Retrieval with Refined Part Pooling (and A Strong Convolutional Baseline) [[paper](https://arxiv.org/pdf/1711.09349.pdf)] [[code](https://github.com/wangguanan/Pytorch-Person-ReID-Baseline-PCB-Beyond-Part-Models)]  (ECCV2018)
 - AlignedReID: Surpassing Human-Level Performance in Person Re-Identification[[paper](https://arxiv.org/pdf/1711.08184.pdf)] (CVPR2017)
+
+### 全局特征
+- ABD-Net: Attentive but Diverse Person Re-Identification [[paper](https://arxiv.org/abs/1908.01114)][[code](https://github.com/jiangdapeng1024/ABD-Net)] (ICCV2019)
