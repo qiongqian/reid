@@ -22,3 +22,7 @@
 
 ### 全局特征
 - ABD-Net: Attentive but Diverse Person Re-Identification [[paper](https://arxiv.org/abs/1908.01114)][[code](https://github.com/jiangdapeng1024/ABD-Net)] (ICCV2019)
+
+### Re-ranking
+- Re-ranking Person Re-identification with k-reciprocal Encoding. [[paper](https://arxiv.org/abs/1701.08398)][[code](https://github.com/zhunzhong07/person-re-ranking)](CVPR2017)
+- Understanding Image Retrieval Re-Ranking: A Graph Neural Network Perspective. [[paper](https://arxiv.org/abs/2012.07620v2)][[code](https://github.com/Xuanmeng-Zhang/gnn-re-ranking)](CVPR2020)
