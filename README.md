@@ -16,7 +16,7 @@
 - Asymmetric Co-Teaching for Unsupervised Cross Domain Person Re-Identification[[paper](https://arxiv.org/abs/1912.01349)] [[code](https://github.com/FlyingRoastDuck/ACT_AAAI20)] (AAAI2020)
 
 
-- PTGAN: Person Transfer GAN to Bridge Domain Gap for Person Re-Identification[[paper](https://arxiv.org/pdf/1711.08565.pdf)](CVPR(2018))
+- PTGAN: Person Transfer GAN to Bridge Domain Gap for Person Re-Identification[[paper](https://arxiv.org/pdf/1711.08565.pdf)](CVPR2018)
 - SPGAN: Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification[[paper](https://arxiv.org/pdf/1711.07027.pdf)] [[code](https://github.com/Simon4Yan/Learning-via-Translation)] (CVPR2018)
 - Camera Style Adaptation for Person Re-identification[[paper](https://arxiv.org/abs/1711.10295)] [[code](https://github.com/zhunzhong07/CamStyle)] (CVPR2018)
 - 
@@ -29,8 +29,8 @@
 - ABD-Net: Attentive but Diverse Person Re-Identification [[paper](https://arxiv.org/abs/1908.01114)] [[code](https://github.com/jiangdapeng1024/ABD-Net)] (ICCV2019)
 
 ### Re-ranking
-- Re-ranking Person Re-identification with k-reciprocal Encoding. [[paper](https://arxiv.org/abs/1701.08398)] [[code](https://github.com/zhunzhong07/person-re-ranking)](CVPR2017)
-- Understanding Image Retrieval Re-Ranking: A Graph Neural Network Perspective. [[paper](https://arxiv.org/abs/2012.07620v2)] [[code](https://github.com/Xuanmeng-Zhang/gnn-re-ranking)](CVPR2020)
+- Re-ranking Person Re-identification with k-reciprocal Encoding. [[paper](https://arxiv.org/abs/1701.08398)] [[code](https://github.com/zhunzhong07/person-re-ranking) (CVPR2017)
+- Understanding Image Retrieval Re-Ranking: A Graph Neural Network Perspective. [[paper](https://arxiv.org/abs/2012.07620v2)] [[code](https://github.com/Xuanmeng-Zhang/gnn-re-ranking)] (CVPR2020)
 ### 综述
 - Deep Learning for Person Re-identification:A Survey and Outlook. [[paper](https://arxiv.org/abs/2001.04193v2)] [[github](https://github.com/mangye16/ReID-Survey)] (IEEE TPAMI2020)
 - Person Re-identification: Past, Present and Future. [[paper](https://arxiv.org/abs/1610.02984v1)] (CVPR2016)
